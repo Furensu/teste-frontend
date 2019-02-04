@@ -39,3 +39,7 @@ Faça download clicando [aqui](https://github.com/SENAI-NTM/teste-backend/blob/m
 4. Você tem uma semana (7 dias) para a finalização do teste, a partir da data de envio do e-mail.
 5. Se não conseguir finalizar os testes, não se preocupe, envie a sua solução no estágio de desenvolvimento que estiver.
 
+## Instruções de Execução
+1. Instalar o http-server.
+2. Executa-lo na pasta contendo o projeto.
+3. Abrir o endereço designado pelo http-server no navegador de preferencia
